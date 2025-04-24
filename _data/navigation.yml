@@ -12,8 +12,8 @@ main:
     url: /publications/    
 
         
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
