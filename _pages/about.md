@@ -8,4 +8,4 @@ redirect_from:
 
 Hi, welcome to my homepage.
 
-I am a Ph.D. student in the Department of Statistical Science at University College London, supervised by Ricardo Silva and Arthur Gretton. My research focuses on kernel methods, statistical learning theory, and causal inference. More recently, I am interested in deep learning theory, particularly the implicit biases of transformers. 
+I am a Ph.D. student in the Department of Statistical Science at University College London, supervised by Ricardo Silva and Arthur Gretton. My research focuses on kernel methods, statistical learning theory, and causal inference. I am also interested in deep learning theory, particularly the implicit biases of transformers. 
